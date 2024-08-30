@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "619456801030",
+    "project_id": "interview-demo-fc1ed",
+    "storage_bucket": "interview-demo-fc1ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619456801030:android:555de00e36571187201687",
+        "android_client_info": {
+          "package_name": "com.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJDW-iGoebFHj0BrCBfIKGPu_K-C2Nn-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
