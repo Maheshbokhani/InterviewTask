@@ -1,0 +1,22 @@
+{
+  "plugins": [
+    [
+      "module-resolver",
+      {
+        "root": ["./src"],
+        "extensions": [".ios.ts", ".android.ts", ".ts", ".tsx", ".ios.tsx", ".android.tsx", ".jsx", ".js", ".json"],
+        "alias": {
+          "components": ["./src/components"],
+          "constants": ["./src/constants"],
+          "navigation": ["./src/navigation"],
+          "redux": ["./src/redux"],
+          "screens": ["./src/screens"],
+          "utils": ["./src/utils"],
+          "services": ["./src/services"],
+          "src": ["./src"]
+        },
+        "presets": ["module:metro-react-native-babel-preset"]
+      }
+    ]
+  ]
+}
